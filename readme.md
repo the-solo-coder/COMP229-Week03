@@ -3,11 +3,11 @@
 
 ### Tasks
 
-1. Clone this repository:
+1. Clone this repository.
 
 `git clone https://github.com/the-solo-coder/COMP229-Week03.git`
 
-2. Delete the ".git" folder so that you can create your own repository later
+2. Delete the ".git" folder so that you can create your own repository later.
 
 ### Error 1: Logo
 
@@ -45,6 +45,6 @@ Try: `nodemon`
 
 ### Tasks:
 
-1. Push your code to a new repo on GitHub;
-
+1. Push your code to a new repo on GitHub.
 2. Deploy your app to Heroku.
+3. Share the link on our Slack "week04" channel to your working app hosted on Heroku.
