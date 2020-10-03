@@ -1,9 +1,9 @@
 {
-  "name": "comp229-f2020-week3",
+  "name": "comp229-f20-crm-week3",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node ./server.js"
+    "start": "node ./server"
   },
   "engines": {
     "node": "^12.18.3",
@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.14.0",
-    "bootstrap": "^4.5.2",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
@@ -21,17 +20,17 @@
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
   },
-  "description": "demo app for COMP229 Week 3",
+  "description": "CRM Demo App for COMP229 Week 3",
   "main": "index.js",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsiliopoulos/COMP229-F2020-Week3.git"
+    "url": "git+https://github.com/the-solo-coder/COMP229-Week03.git"
   },
-  "author": "Tom Tsiliopoulos",
+  "author": "Aderson Oliveira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsiliopoulos/COMP229-F2020-Week3/issues"
+    "url": "https://github.com/the-solo-coder/COMP229-Week03/issues"
   },
-  "homepage": "https://github.com/tsiliopoulos/COMP229-F2020-Week3#readme"
+  "homepage": "https://github.com/the-solo-coder/COMP229-Week03#readme"
 }

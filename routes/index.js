@@ -27,7 +27,7 @@ router.get('/services', function(req, res, next) {
 });
 
 /* GET users page. */
-router.get('/contact', function(req, res, next) {
+router.get('/contact-support', function(req, res, next) {
   res.render('index', { title: 'Contact Support'});
 });
 
